@@ -1,6 +1,4 @@
-Certainly! Here's an updated README file with emojis and symbols:
 
----
 
 # Aashutosh Singh - Java Developer 💻
 
